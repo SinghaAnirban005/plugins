@@ -5,7 +5,7 @@ createdAt: "2025-06-17T05:35:50Z"
 logoURL: "https://raw.githubusercontent.com/kedacore/governance/main/logos/keda-icon-colour.png"
 description: A UI for viewing and managing Karpenter resources in Headlamp.
 annotations:
-  headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/keda-0.1.0-beta/headlamp-k8s-keda-0.1.0-beta.tar.gz"
-  headlamp/plugin/archive-checksum: "SHA256:2adb4a291455cf3757778ae0e6b1db9b4b3cd7c933c9bfbe1cfd65c6c5ce2586"
+  headlamp/plugin/archive-url: "https://github.com/SinghaAnirban005/plugins/releases/download/v1.0.0/karpenter-0.1.0-alpha.0.tar.gz"
+  headlamp/plugin/archive-checksum: "SHA256:16c4f8f9d51dac478a18cc3d08280d59993fe03f1495171f94398f384d9b4e2f"
   headlamp/plugin/version-compat: ">=0.22"
   headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop,desktop"
