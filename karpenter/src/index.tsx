@@ -23,6 +23,7 @@ import { PendingPods } from './PendingPods';
 registerSidebarEntry({
   parent: null,
   name: 'karpenter.k8s',
+  icon: 'mdi:tools',
   label: 'Karpenter',
   url: '/karpenter/ec2nodeclasses',
 });
